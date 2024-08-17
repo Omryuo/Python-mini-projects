@@ -1,7 +1,6 @@
 import tkinter as tk
 import random
 
-
 # Function to determine the winner
 def determine_winner(user_choice):
     choices = ['Rock', 'Paper', 'Scissors']
