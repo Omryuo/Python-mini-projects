@@ -19,5 +19,5 @@ Recently modified the color scheme to a more corporate look, enhancing its profe
 Developed a fun GUI-based Rock-Paper-Scissors game.
 Enhanced my understanding of event handling and user interaction within a Python application.
  * There is 2 variant of the rock paper scissors game. one is the simple basic version and another is with little simple animation.
- * The simple one is present as a Rock paper scissor(Basic).py , whereas the one with simple animation is present as a zip file.
+ * The simple one is present as a Rock paper scissor (basic).py , whereas the one with simple animation is present as a zip file.
 
