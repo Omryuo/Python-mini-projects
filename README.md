@@ -1,5 +1,5 @@
 # Python-mini-projects
-Includes various mini projects done using python programming. These are the assignments given to me during my python programming internship at Codsoft.
+Includes various mini projects done using python programming. These are the assignments given to me during my python programming internship at **Codsoft**.
 
 Here's a quick rundown of what I've done :
 
